@@ -1,4 +1,4 @@
-<%--
+<%@ page import="java.util.Enumeration" %><%--
   Created by IntelliJ IDEA.
   User: daiya
   Date: 2017/7/11
@@ -16,6 +16,9 @@
 <p>out: <%= out.getBufferSize()%></p>
 <p>session: <%= session.getCreationTime()%></p>
 <p>application: <%= application.getAttributeNames()%></p>
-
+<%Enumeration enumeration=request.getAttributeNames();
+while(!enumeration.hasMoreElements()){%>
+        <p>enumation: <%enumeration.nextElement();%></p>
+<%}%>
 </body>
 </html>

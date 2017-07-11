@@ -13,16 +13,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HelloWorldServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/HelloWorldServlet.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="for.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="for.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/for.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
@@ -93,6 +83,26 @@
               <folding>
                 <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/littleservlet/date.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/date.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,6 +150,8 @@
         <option value="$PROJECT_DIR$/web/ifelse.jsp" />
         <option value="$PROJECT_DIR$/web/error_page.jsp" />
         <option value="$PROJECT_DIR$/web/for.jsp" />
+        <option value="$PROJECT_DIR$/web/littleservlet/date.jsp" />
+        <option value="$PROJECT_DIR$/web/date.jsp" />
       </list>
     </option>
   </component>
@@ -734,12 +746,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499759454399</updated>
-      <workItem from="1499759459056" duration="5816000" />
+      <workItem from="1499759459056" duration="6562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5816000" />
+    <option name="totallyTimeSpent" value="6562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -896,6 +908,22 @@
           <folding>
             <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/littleservlet/date.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/date.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>

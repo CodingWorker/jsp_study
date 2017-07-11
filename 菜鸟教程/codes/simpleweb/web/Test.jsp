@@ -48,6 +48,7 @@
     String content3="销毁次数 : "+destroyVar;
 %>
 <h1>XXX教程 JSP 测试实例</h1>
+<p>你的ip是<%out.println(request.getRemoteAddr());%></p>
 <p><%=content1 %></p>
 <p><%=content2 %></p>
 <p><%=content3 %></p>

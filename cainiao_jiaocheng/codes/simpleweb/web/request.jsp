@@ -6,5 +6,7 @@
     <body>
         <h1>Request对象测试</h1>
         <p><% out.println(request.getContextPath());%></p>
+        <p><%out .println(request.getRemoteAddr());%></p>
+    <p><%out.println(request.getHeader("User-Agent"));%></p>
     </body>
 </html>

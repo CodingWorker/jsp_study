@@ -93,12 +93,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cookie2.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cookie2.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/cookie2.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="session2.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/session2.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="e#565#566#0#JAVA" expanded="true" />
+                <element signature="e#646#647#0#JAVA" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -350,6 +363,8 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/web/cookie.jsp" />
         <option value="$PROJECT_DIR$/web/cookie2.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/session2.jsp" />
+        <option value="$PROJECT_DIR$/web/session2.jsp" />
       </list>
     </option>
   </component>
@@ -435,24 +450,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simpleweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simpleweb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -489,6 +486,7 @@
       <recent name="F:\my\mygit\jsp_study\菜鸟教程\codes\simpleweb\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\my\mygit\jsp_study\cainiao_jiaocheng\codes\simpleweb\web" />
       <recent name="F:\my\mygit\jsp_study\cainiao_jiaocheng\codes\simpleweb\lib" />
     </key>
   </component>
@@ -1173,12 +1171,12 @@
       <workItem from="1499775750438" duration="6392000" />
       <workItem from="1499824602697" duration="646000" />
       <workItem from="1499825373886" duration="2648000" />
-      <workItem from="1499828042406" duration="11681000" />
+      <workItem from="1499828042406" duration="12695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22115000" />
+    <option name="totallyTimeSpent" value="23129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1668,6 +1666,17 @@
         <state relative-caret-position="135">
           <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/session2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="e#565#566#0#JAVA" expanded="true" />
+            <element signature="e#646#647#0#JAVA" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

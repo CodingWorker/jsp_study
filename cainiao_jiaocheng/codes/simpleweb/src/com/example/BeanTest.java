@@ -1,4 +1,4 @@
-package src.com.example;
+package com.example;
 
 /**
  * Created by DaiYan on 2017/7/11.
